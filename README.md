@@ -2,6 +2,8 @@
 
 A Processing sketch that allows testing multiple parameters in an ImageJ macro. See https://twitter.com/jmutterer/status/1091288515013476352 for a demo
 
+![Screenshot](screenshot.jpg)
+
 Features:
 
 * Accepts images by drag and drop thanks to the Drop library
