@@ -1,6 +1,6 @@
 # processingLiveImageJMacros
 
-A Processing sketch that allows testing multiple parameters in an ImageJ macro.
+A Processing sketch that allows testing multiple parameters in an ImageJ macro. See https://twitter.com/jmutterer/status/1091288515013476352 for a demo
 
 Features:
 
