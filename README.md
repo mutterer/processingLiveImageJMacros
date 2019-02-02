@@ -17,3 +17,12 @@ Features:
     * displays the PImage
     
 It would make sense to rewrite this as a proper ImageJ Plugin. Someone?
+
+# Installation
+
+* Download Processing from: https://processing.org/download/
+* Start Processing, and install required libraries using the built in library manager:
+   * Choose menu item: Sketch > Import Library... > Add Library...
+   * Use the library search box and locate libraires G4P, ControlP5 and Drop
+   * For adding ImageJ as a library, use the Sketch > Add File... menu and point to the processingLiveImageJMacros/code/ij.jar
+* Open Processing_Live_ImageJ_macros.pde and press the IDE's play button
